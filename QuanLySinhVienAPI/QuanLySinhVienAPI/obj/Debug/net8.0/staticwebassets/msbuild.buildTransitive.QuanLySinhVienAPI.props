@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\QuanLySinhVienAPI.props" />
+</Project>

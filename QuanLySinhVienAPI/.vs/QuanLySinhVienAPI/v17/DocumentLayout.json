@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|d:\\.net\\quanlysinhvienapi\\quanlysinhvienapi\\quanlysinhvienapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|solutionrelative:quanlysinhvienapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|d:\\.net\\quanlysinhvienapi\\quanlysinhvienapi\\quanlysinhvienapi\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|solutionrelative:quanlysinhvienapi\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|d:\\.net\\quanlysinhvienapi\\quanlysinhvienapi\\quanlysinhvienapi\\service\\monhocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|solutionrelative:quanlysinhvienapi\\service\\monhocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|d:\\.net\\quanlysinhvienapi\\quanlysinhvienapi\\quanlysinhvienapi\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|solutionrelative:quanlysinhvienapi\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|d:\\.net\\quanlysinhvienapi\\quanlysinhvienapi\\quanlysinhvienapi\\controllers\\monhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|solutionrelative:quanlysinhvienapi\\controllers\\monhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|d:\\.net\\quanlysinhvienapi\\quanlysinhvienapi\\quanlysinhvienapi\\service\\lophocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|solutionrelative:quanlysinhvienapi\\service\\lophocservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|d:\\.net\\quanlysinhvienapi\\quanlysinhvienapi\\quanlysinhvienapi\\controllers\\lophoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D63E40-DA28-4F3E-998C-9ED0AF17997E}|QuanLySinhVienAPI\\QuanLySinhVienAPI.csproj|solutionrelative:quanlysinhvienapi\\controllers\\lophoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVienAPI\\Program.cs",
+              "ToolTip": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Program.cs",
+              "RelativeToolTip": "QuanLySinhVienAPI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:06:12.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Entities\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVienAPI\\Entities\\AppDBContext.cs",
+              "ToolTip": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Entities\\AppDBContext.cs",
+              "RelativeToolTip": "QuanLySinhVienAPI\\Entities\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:53:00.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVienAPI\\Controllers\\SinhVienController.cs",
+              "ToolTip": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "QuanLySinhVienAPI\\Controllers\\SinhVienController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:36:11.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonHocService.cs",
+              "DocumentMoniker": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Service\\MonHocService.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVienAPI\\Service\\MonHocService.cs",
+              "ToolTip": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Service\\MonHocService.cs",
+              "RelativeToolTip": "QuanLySinhVienAPI\\Service\\MonHocService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAywBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:27:45.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LopHocService.cs",
+              "DocumentMoniker": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Service\\LopHocService.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVienAPI\\Service\\LopHocService.cs",
+              "ToolTip": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Service\\LopHocService.cs",
+              "RelativeToolTip": "QuanLySinhVienAPI\\Service\\LopHocService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvzkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:27:34.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LopHocController.cs",
+              "DocumentMoniker": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Controllers\\LopHocController.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVienAPI\\Controllers\\LopHocController.cs",
+              "ToolTip": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Controllers\\LopHocController.cs",
+              "RelativeToolTip": "QuanLySinhVienAPI\\Controllers\\LopHocController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:11:12.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonHocController.cs",
+              "DocumentMoniker": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Controllers\\MonHocController.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVienAPI\\Controllers\\MonHocController.cs",
+              "ToolTip": "D:\\.Net\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\QuanLySinhVienAPI\\Controllers\\MonHocController.cs",
+              "RelativeToolTip": "QuanLySinhVienAPI\\Controllers\\MonHocController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwEsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:13:50.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
